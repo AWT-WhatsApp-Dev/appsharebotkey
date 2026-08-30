@@ -1,1 +1,20 @@
-
+{
+  "AWT-CBJB-ASXB-G49M": {
+    "telegram_username": "",
+    "purchase_date": 1788077293000,
+    "expire_date": 1790755693000,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
+  },
+  "AWT-4PHR-BKKB-TB2B": {
+    "telegram_username": "",
+    "purchase_date": 1788077503000,
+    "expire_date": 1793347693000,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
+  }
+}
