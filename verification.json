@@ -61,5 +61,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-P57J-KGR5-Q88M": {
+    "telegram_username": "",
+    "purchase_date": 1788973675527,
+    "expire_date": 1820509675527,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
