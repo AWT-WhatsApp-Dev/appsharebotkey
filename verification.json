@@ -79,5 +79,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-C984-CXD2-QFG9": {
+    "telegram_username": "",
+    "purchase_date": 1789069338603,
+    "expire_date": 1820605338603,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
