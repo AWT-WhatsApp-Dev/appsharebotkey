@@ -97,5 +97,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-Z89V-26XN-WLAZ": {
+    "telegram_username": "ttMazik",
+    "purchase_date": 1789126655792,
+    "expire_date": 1820662655792,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
