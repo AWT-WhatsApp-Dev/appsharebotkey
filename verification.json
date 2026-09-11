@@ -241,5 +241,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-K6UJ-KNQJ-XHMT": {
+    "telegram_username": "Valentinagjnjq",
+    "purchase_date": 1789148887262,
+    "expire_date": 1820684887262,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
