@@ -214,5 +214,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-25SW-3UPF-4DHV": {
+    "telegram_username": "olegdpl",
+    "purchase_date": 1789145331587,
+    "expire_date": 1820681331587,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
