@@ -88,5 +88,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-VL8T-CHH7-V2ZR": {
+    "telegram_username": "",
+    "purchase_date": 1789126532808,
+    "expire_date": 1820662532808,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
