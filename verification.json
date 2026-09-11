@@ -232,5 +232,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-R76Z-RPYH-RRQB": {
+    "telegram_username": "xfoooxing",
+    "purchase_date": 1789146452961,
+    "expire_date": 1820682452961,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
