@@ -259,5 +259,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-DRMM-L2CS-X8N3": {
+    "telegram_username": "Moskva999999",
+    "purchase_date": 1789162262955,
+    "expire_date": 1820698262955,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
