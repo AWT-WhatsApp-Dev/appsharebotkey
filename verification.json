@@ -223,5 +223,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-XME7-6HL4-K36E": {
+    "telegram_username": "",
+    "purchase_date": 1789146455285,
+    "expire_date": 1820682455285,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
