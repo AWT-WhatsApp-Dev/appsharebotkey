@@ -169,5 +169,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-EHG8-TGSW-EP2Q": {
+    "telegram_username": "invi_dia",
+    "purchase_date": 1789144783409,
+    "expire_date": 1820680783409,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
