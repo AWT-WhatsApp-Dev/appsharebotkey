@@ -142,5 +142,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-9TDG-34BL-GFPY": {
+    "telegram_username": "zelenskyi_pidor",
+    "purchase_date": 1789143384100,
+    "expire_date": 1820679384100,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
