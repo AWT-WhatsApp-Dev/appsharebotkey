@@ -250,5 +250,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-YSVV-869D-EGNL": {
+    "telegram_username": "motorized_rifle",
+    "purchase_date": 1789149194362,
+    "expire_date": 1820685194362,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
