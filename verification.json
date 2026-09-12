@@ -277,5 +277,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-TEWA-ABM9-TAFG": {
+    "telegram_username": "zxxxxxzhh",
+    "purchase_date": 1789205959492,
+    "expire_date": 1820741959492,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
