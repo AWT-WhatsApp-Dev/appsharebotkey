@@ -412,5 +412,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-NLUV-SL49-WXF6": {
+    "telegram_username": "DiLin99",
+    "purchase_date": 1789235601104,
+    "expire_date": 1820771601104,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
