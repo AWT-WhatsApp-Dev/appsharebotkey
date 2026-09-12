@@ -403,5 +403,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-AXDV-LS7S-TMNA": {
+    "telegram_username": "AlanKorr",
+    "purchase_date": 1789235147359,
+    "expire_date": 1820771147359,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
