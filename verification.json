@@ -295,5 +295,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-8CTT-DB56-83RP": {
+    "telegram_username": "Agust_fox_666",
+    "purchase_date": 1789209526474,
+    "expire_date": 1820745526474,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
