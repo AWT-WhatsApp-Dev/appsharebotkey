@@ -394,5 +394,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-VYA3-NH4R-WJP8": {
+    "telegram_username": "",
+    "purchase_date": 1789224096440,
+    "expire_date": 1820760096440,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
