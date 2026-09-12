@@ -358,5 +358,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-U7XG-GWWS-NCU9": {
+    "telegram_username": "Korobhenka",
+    "purchase_date": 1789219284295,
+    "expire_date": 1820755284295,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
