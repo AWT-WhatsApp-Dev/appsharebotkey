@@ -286,5 +286,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-4VUY-E8VK-FF28": {
+    "telegram_username": "",
+    "purchase_date": 1789209295430,
+    "expire_date": 1820745295430,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
