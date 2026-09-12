@@ -439,5 +439,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-CA8K-RWTV-VYG2": {
+    "telegram_username": "INMYNERV",
+    "purchase_date": 1789238672895,
+    "expire_date": 1820774672895,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
