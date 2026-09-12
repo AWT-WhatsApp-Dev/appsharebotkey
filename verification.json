@@ -466,5 +466,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-G7D5-G7Q3-8Y8R": {
+    "telegram_username": "Dasha06061983",
+    "purchase_date": 1789243503460,
+    "expire_date": 1820779503460,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
