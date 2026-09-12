@@ -430,5 +430,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-GXMR-YPS4-P44G": {
+    "telegram_username": "irina_pasanidi",
+    "purchase_date": 1789238666974,
+    "expire_date": 1820774666974,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
