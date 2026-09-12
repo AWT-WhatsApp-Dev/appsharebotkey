@@ -331,5 +331,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-PSLN-Q37W-N2KM": {
+    "telegram_username": "Xo_Niki",
+    "purchase_date": 1789217674188,
+    "expire_date": 1820753674188,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
