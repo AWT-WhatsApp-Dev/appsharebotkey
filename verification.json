@@ -322,5 +322,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-C7CA-FSCN-8MYH": {
+    "telegram_username": "sashka40rus",
+    "purchase_date": 1789211596949,
+    "expire_date": 1820747596949,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
