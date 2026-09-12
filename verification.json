@@ -304,5 +304,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-P26U-3FE5-5DKZ": {
+    "telegram_username": "PepegaHead",
+    "purchase_date": 1789209529552,
+    "expire_date": 1820745529552,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
