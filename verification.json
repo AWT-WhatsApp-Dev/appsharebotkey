@@ -601,5 +601,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-ETBW-TYJS-JPZ6": {
+    "telegram_username": "ONTIX",
+    "purchase_date": 1789307073941,
+    "expire_date": 1820843073941,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
