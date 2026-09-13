@@ -529,5 +529,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-ZT72-FS9J-9BTH": {
+    "telegram_username": "Ozzweh",
+    "purchase_date": 1789278856494,
+    "expire_date": 1820814856494,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
