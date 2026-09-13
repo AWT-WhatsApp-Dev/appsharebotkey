@@ -592,5 +592,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-BAAL-KKPJ-6LNS": {
+    "telegram_username": "chelovek_Yana",
+    "purchase_date": 1789305475198,
+    "expire_date": 1820841475198,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
