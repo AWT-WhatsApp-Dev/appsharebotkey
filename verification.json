@@ -610,5 +610,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-L8TM-CR8J-N5US": {
+    "telegram_username": "Kirill240793",
+    "purchase_date": 1789323621869,
+    "expire_date": 1820859621869,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
