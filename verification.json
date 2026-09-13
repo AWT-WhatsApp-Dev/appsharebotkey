@@ -502,5 +502,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-6X4D-5JL6-TVQX": {
+    "telegram_username": "Ctc242",
+    "purchase_date": 1789278848303,
+    "expire_date": 1820814848303,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
