@@ -538,5 +538,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-WCFL-RXNV-Y65B": {
+    "telegram_username": "azizganiev025",
+    "purchase_date": 1789286448212,
+    "expire_date": 1820822448212,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
