@@ -565,5 +565,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-CGDE-CUCQ-JN8B": {
+    "telegram_username": "SK19772397",
+    "purchase_date": 1789296314073,
+    "expire_date": 1820832314073,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
