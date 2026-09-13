@@ -547,5 +547,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-U8SR-W9QH-LKGY": {
+    "telegram_username": "AlenaRukos",
+    "purchase_date": 1789288890868,
+    "expire_date": 1820824890868,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
