@@ -628,5 +628,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-QLT2-A3NZ-U8QU": {
+    "telegram_username": "vovaPetrosh",
+    "purchase_date": 1789366883840,
+    "expire_date": 1820902883840,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
