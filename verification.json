@@ -673,5 +673,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-TFT3-G3EA-VYXP": {
+    "telegram_username": "Yuriy7186",
+    "purchase_date": 1789470786121,
+    "expire_date": 1821006786121,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
