@@ -700,5 +700,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-M9JD-J228-LBM9": {
+    "telegram_username": "reincarnation_yes",
+    "purchase_date": 1789543982166,
+    "expire_date": 1821079982166,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
