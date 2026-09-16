@@ -754,5 +754,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-MGEP-GCAT-KGL5": {
+    "telegram_username": "Error_zzz",
+    "purchase_date": 1789591040878,
+    "expire_date": 1821127040878,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
