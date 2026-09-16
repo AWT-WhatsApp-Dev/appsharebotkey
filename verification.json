@@ -709,5 +709,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-FE2Y-WZ3H-8TXH": {
+    "telegram_username": "ttMazik",
+    "purchase_date": 1789544743335,
+    "expire_date": 1821080743335,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
