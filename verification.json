@@ -745,5 +745,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-Y9FG-EFYT-3LGM": {
+    "telegram_username": "",
+    "purchase_date": 1789576320092,
+    "expire_date": 1821112320092,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
