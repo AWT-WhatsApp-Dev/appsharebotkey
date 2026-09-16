@@ -718,5 +718,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-V35W-ENZ2-9WT5": {
+    "telegram_username": "portalvpnhelp",
+    "purchase_date": 1789548192753,
+    "expire_date": 1821084192753,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
