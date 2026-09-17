@@ -772,5 +772,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-TDYU-43VK-GEA3": {
+    "telegram_username": "Po_tyson",
+    "purchase_date": 1789630475880,
+    "expire_date": 1821166475880,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
