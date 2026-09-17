@@ -808,5 +808,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-PFPN-CS4N-DDKG": {
+    "telegram_username": "Shjxje",
+    "purchase_date": 1789674740919,
+    "expire_date": 1821210740919,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
