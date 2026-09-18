@@ -835,5 +835,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-XV5M-2RGK-5J7N": {
+    "telegram_username": "miksu_24",
+    "purchase_date": 1789719605880,
+    "expire_date": 1821255605880,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
