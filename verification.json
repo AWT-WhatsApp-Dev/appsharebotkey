@@ -826,5 +826,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-F7PJ-KYND-GPJN": {
+    "telegram_username": "danhik7771",
+    "purchase_date": 1789717160880,
+    "expire_date": 1821253160880,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
