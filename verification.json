@@ -889,5 +889,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-M8NX-3WTQ-M4VR": {
+    "telegram_username": "mallerrr",
+    "purchase_date": 1789767845878,
+    "expire_date": 1821303845878,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
