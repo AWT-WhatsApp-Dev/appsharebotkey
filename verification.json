@@ -853,5 +853,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-XQB8-REY3-KLDD": {
+    "telegram_username": "seventeenguap",
+    "purchase_date": 1789737035877,
+    "expire_date": 1821273035877,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
