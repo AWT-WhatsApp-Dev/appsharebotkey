@@ -934,5 +934,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-JKAW-2DZS-SZ9B": {
+    "telegram_username": "Impossible_Missions_Force",
+    "purchase_date": 1789831511514,
+    "expire_date": 1821367511514,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
