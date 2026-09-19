@@ -907,5 +907,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-NJHK-MRP4-LN2Q": {
+    "telegram_username": "forcedr",
+    "purchase_date": 1789831276416,
+    "expire_date": 1821367276416,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
