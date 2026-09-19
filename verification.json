@@ -898,5 +898,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-P7W9-QZKD-QRUF": {
+    "telegram_username": "forcedr",
+    "purchase_date": 1789831280875,
+    "expire_date": 1821367280875,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
