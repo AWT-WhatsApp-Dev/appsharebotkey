@@ -916,5 +916,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-43R6-9BN2-DAMA": {
+    "telegram_username": "Impossible_Missions_Force",
+    "purchase_date": 1789831520384,
+    "expire_date": 1821367520384,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
