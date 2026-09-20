@@ -961,5 +961,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-J7HA-BLPA-BX6U": {
+    "telegram_username": "KiberDedos",
+    "purchase_date": 1789902947592,
+    "expire_date": 1821438947592,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
