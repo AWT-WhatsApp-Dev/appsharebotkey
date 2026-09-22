@@ -988,5 +988,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-237A-FRVY-3CSG": {
+    "telegram_username": "",
+    "purchase_date": 1790063072671,
+    "expire_date": 1821599072671,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
