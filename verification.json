@@ -979,5 +979,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-XZVJ-T5KG-X2XP": {
+    "telegram_username": "SergeiSokolov34",
+    "purchase_date": 1790041328955,
+    "expire_date": 1821577328955,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
