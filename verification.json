@@ -1015,5 +1015,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-8HTF-SZEP-BW6Y": {
+    "telegram_username": "Dasha06061983",
+    "purchase_date": 1790088989770,
+    "expire_date": 1821624989770,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
