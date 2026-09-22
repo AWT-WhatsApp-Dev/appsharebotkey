@@ -1006,5 +1006,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-N7AJ-29YY-FLK6": {
+    "telegram_username": "Alextaplink",
+    "purchase_date": 1790088554772,
+    "expire_date": 1821624554772,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
