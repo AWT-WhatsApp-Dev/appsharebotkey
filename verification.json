@@ -1033,5 +1033,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-FCAZ-RWEU-G3JS": {
+    "telegram_username": "mirandslavaa",
+    "purchase_date": 1790188269234,
+    "expire_date": 1821724269234,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
