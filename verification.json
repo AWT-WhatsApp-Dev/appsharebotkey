@@ -1042,5 +1042,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-4EQ9-YRCD-TA6F": {
+    "telegram_username": "",
+    "purchase_date": 1790318548926,
+    "expire_date": 1821854548926,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
