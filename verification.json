@@ -1060,5 +1060,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-T3DJ-JKUH-NP5U": {
+    "telegram_username": "MyPerrito",
+    "purchase_date": 1790431910947,
+    "expire_date": 1821967910947,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
