@@ -1069,5 +1069,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-RLZD-LUX5-8S5C": {
+    "telegram_username": "Angelika_ti",
+    "purchase_date": 1790443595934,
+    "expire_date": 1821979595934,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
