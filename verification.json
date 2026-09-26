@@ -1078,5 +1078,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-844Z-98R8-ATZD": {
+    "telegram_username": "Angelika_ti",
+    "purchase_date": 1790443589139,
+    "expire_date": 1821979589139,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
