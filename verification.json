@@ -1087,5 +1087,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-FC2P-5UV9-SU7U": {
+    "telegram_username": "",
+    "purchase_date": 1790503497732,
+    "expire_date": 1822039497732,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
