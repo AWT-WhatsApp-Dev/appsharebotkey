@@ -1132,5 +1132,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-EE4U-NDKP-EA3B": {
+    "telegram_username": "",
+    "purchase_date": 1790794324761,
+    "expire_date": 1822330324761,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
