@@ -1141,5 +1141,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-EK45-6ZL5-PCB9": {
+    "telegram_username": "",
+    "purchase_date": 1790826364751,
+    "expire_date": 1822362364751,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
