@@ -1150,5 +1150,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-QQJZ-AEM3-PWQA": {
+    "telegram_username": "",
+    "purchase_date": 1790834941174,
+    "expire_date": 1822370941174,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
