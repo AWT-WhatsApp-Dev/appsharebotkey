@@ -1177,5 +1177,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-HCRV-W63F-YQRF": {
+    "telegram_username": "MichaelSanych",
+    "purchase_date": 1791120220974,
+    "expire_date": 1822656220974,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
