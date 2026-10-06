@@ -1195,5 +1195,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-AAE8-T6KA-7A9B": {
+    "telegram_username": "SeryiDor",
+    "purchase_date": 1791290195567,
+    "expire_date": 1822826195567,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
