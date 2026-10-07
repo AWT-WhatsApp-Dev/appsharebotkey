@@ -1276,5 +1276,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-7D58-TKKG-3L8H": {
+    "telegram_username": "LouieLimeShark",
+    "purchase_date": 1791403896076,
+    "expire_date": 1822939896076,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
