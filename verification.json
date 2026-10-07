@@ -1267,5 +1267,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-8YTT-JSU5-H5XP": {
+    "telegram_username": "",
+    "purchase_date": 1791402059215,
+    "expire_date": 1822938059215,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
