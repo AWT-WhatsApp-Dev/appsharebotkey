@@ -1249,5 +1249,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-88XR-5FFX-Q3C4": {
+    "telegram_username": "skara_666",
+    "purchase_date": 1791399295490,
+    "expire_date": 1822935295490,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
