@@ -1240,5 +1240,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-LGDF-78YV-YA3B": {
+    "telegram_username": "shqliil",
+    "purchase_date": 1791398665475,
+    "expire_date": 1822934665475,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
