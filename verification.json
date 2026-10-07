@@ -1285,5 +1285,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-N8JZ-LR3A-BHMU": {
+    "telegram_username": "ffaifr",
+    "purchase_date": 1791405111249,
+    "expire_date": 1822941111249,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
