@@ -1402,5 +1402,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-QMDG-F7CD-M5LC": {
+    "telegram_username": "",
+    "purchase_date": 1791460750103,
+    "expire_date": 1822996750103,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
