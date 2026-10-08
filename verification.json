@@ -1339,5 +1339,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-UWGB-BCHW-R3KZ": {
+    "telegram_username": "Buffashkoo",
+    "purchase_date": 1791440545211,
+    "expire_date": 1822976545211,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
