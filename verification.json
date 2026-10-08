@@ -1429,5 +1429,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-GT49-MJ6V-592Q": {
+    "telegram_username": "caramel_witch",
+    "purchase_date": 1791470925689,
+    "expire_date": 1823006925689,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
