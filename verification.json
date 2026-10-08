@@ -1348,5 +1348,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-QSWZ-8MFP-E6W2": {
+    "telegram_username": "XuSe_W",
+    "purchase_date": 1791440605132,
+    "expire_date": 1822976605132,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
