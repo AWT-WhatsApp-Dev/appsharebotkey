@@ -1384,5 +1384,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-ANTP-EKHY-CHJW": {
+    "telegram_username": "EElenka2",
+    "purchase_date": 1791451570155,
+    "expire_date": 1822987570155,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
