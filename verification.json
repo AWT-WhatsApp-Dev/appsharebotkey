@@ -1357,5 +1357,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-VVFJ-WULZ-SHL8": {
+    "telegram_username": "Arbuzlk757",
+    "purchase_date": 1791444820186,
+    "expire_date": 1822980820186,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
