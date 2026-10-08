@@ -1321,5 +1321,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-JHES-WFZ9-9UQY": {
+    "telegram_username": "golovach_lena034",
+    "purchase_date": 1791431502480,
+    "expire_date": 1822967502480,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
