@@ -1438,5 +1438,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-KFTX-NP8Z-8LX3": {
+    "telegram_username": "Mozhai761",
+    "purchase_date": 1791472661902,
+    "expire_date": 1823008661902,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
