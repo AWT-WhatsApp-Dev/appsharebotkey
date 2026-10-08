@@ -1375,5 +1375,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-69HV-4C4F-EJCR": {
+    "telegram_username": "",
+    "purchase_date": 1791449200179,
+    "expire_date": 1822985200179,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
