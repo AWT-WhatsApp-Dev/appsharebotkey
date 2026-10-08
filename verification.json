@@ -1303,5 +1303,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-SDGM-QJE7-VCZ2": {
+    "telegram_username": "shdwfrx",
+    "purchase_date": 1791429085160,
+    "expire_date": 1822965085160,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
