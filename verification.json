@@ -1447,5 +1447,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-GHH9-6D4Y-HK4Z": {
+    "telegram_username": "Vladislav9306",
+    "purchase_date": 1791489539239,
+    "expire_date": 1823025539239,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
