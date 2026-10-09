@@ -1483,5 +1483,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-FA4Y-FU98-JSU2": {
+    "telegram_username": "kick_timosha",
+    "purchase_date": 1791548801232,
+    "expire_date": 1823084801232,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
