@@ -1474,5 +1474,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-9XD9-B9LR-CL4F": {
+    "telegram_username": "LimCry",
+    "purchase_date": 1791536579094,
+    "expire_date": 1823072579094,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
