@@ -1492,5 +1492,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-NGCC-VU4Z-STE4": {
+    "telegram_username": "KasteT0201Z",
+    "purchase_date": 1791569133447,
+    "expire_date": 1823105133447,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
