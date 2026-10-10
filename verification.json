@@ -1510,5 +1510,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-QBPX-QLV2-RW8E": {
+    "telegram_username": "Quorrenfgthh",
+    "purchase_date": 1791610228292,
+    "expire_date": 1823146228292,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
