@@ -1528,5 +1528,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-TSCY-27UJ-NDVH": {
+    "telegram_username": "",
+    "purchase_date": 1791646996340,
+    "expire_date": 1823182996340,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
