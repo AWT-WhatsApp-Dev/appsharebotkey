@@ -1546,5 +1546,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-E45P-MHDA-ZNNT": {
+    "telegram_username": "",
+    "purchase_date": 1791722814037,
+    "expire_date": 1823258814037,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
