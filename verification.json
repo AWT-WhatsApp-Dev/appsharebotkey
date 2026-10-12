@@ -1600,5 +1600,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-UGYX-AT6K-RYFX": {
+    "telegram_username": "Hornetrrz",
+    "purchase_date": 1791808497649,
+    "expire_date": 1823344497649,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
