@@ -1591,5 +1591,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-QKJ2-X7NB-2N3B": {
+    "telegram_username": "SpringSwallow",
+    "purchase_date": 1791800769362,
+    "expire_date": 1823336769362,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
