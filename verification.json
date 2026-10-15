@@ -1654,5 +1654,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-UJE9-2RTN-4XEC": {
+    "telegram_username": "syetolog2105",
+    "purchase_date": 1792032217382,
+    "expire_date": 1823568217382,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
