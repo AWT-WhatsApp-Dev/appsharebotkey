@@ -1681,5 +1681,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-4VSA-2WQ5-42SL": {
+    "telegram_username": "Daryanani_depressive_loli",
+    "purchase_date": 1792174768841,
+    "expire_date": 1823710768841,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
