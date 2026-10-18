@@ -1744,5 +1744,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-3KMP-Z95F-56M9": {
+    "telegram_username": "KONOR_015",
+    "purchase_date": 1792287096063,
+    "expire_date": 1823823096063,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
