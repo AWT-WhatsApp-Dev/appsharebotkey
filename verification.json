@@ -1762,5 +1762,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-2KJK-NM5H-LW5E": {
+    "telegram_username": "",
+    "purchase_date": 1792387864116,
+    "expire_date": 1823923864116,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
