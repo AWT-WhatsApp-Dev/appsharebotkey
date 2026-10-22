@@ -1834,5 +1834,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-UC44-WH8C-DQYC": {
+    "telegram_username": "nazar_2akk",
+    "purchase_date": 1792675566341,
+    "expire_date": 1824211566341,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
