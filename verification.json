@@ -1825,5 +1825,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-PRK6-BXG5-QJ86": {
+    "telegram_username": "nazar_2akk",
+    "purchase_date": 1792674291222,
+    "expire_date": 1824210291222,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
