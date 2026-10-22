@@ -1843,5 +1843,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-627J-DXYU-54FC": {
+    "telegram_username": "",
+    "purchase_date": 1792676452798,
+    "expire_date": 1824212452798,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
