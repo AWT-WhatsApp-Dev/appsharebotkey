@@ -1852,5 +1852,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-TLDW-3QHP-RE85": {
+    "telegram_username": "zavada1973",
+    "purchase_date": 1792776530675,
+    "expire_date": 1824312530675,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
