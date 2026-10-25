@@ -1924,5 +1924,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-BPNL-5C47-HWDC": {
+    "telegram_username": "wasfik",
+    "purchase_date": 1792952344604,
+    "expire_date": 1824488344604,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
