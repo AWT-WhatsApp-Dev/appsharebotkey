@@ -1933,5 +1933,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-87DY-CF5E-V82M": {
+    "telegram_username": "guthulidia",
+    "purchase_date": 1792955419327,
+    "expire_date": 1824491419327,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
