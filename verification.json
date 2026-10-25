@@ -1879,5 +1879,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-24CY-QXCV-Y2B3": {
+    "telegram_username": "",
+    "purchase_date": 1792923559529,
+    "expire_date": 1824459559529,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
