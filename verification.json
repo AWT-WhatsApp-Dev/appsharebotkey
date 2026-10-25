@@ -1897,5 +1897,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-ZBLY-5UWC-ZAQQ": {
+    "telegram_username": "v1rmi",
+    "purchase_date": 1792949028023,
+    "expire_date": 1824485028023,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
