@@ -1996,5 +1996,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-GQY7-5MNF-HHWA": {
+    "telegram_username": "ttitt16",
+    "purchase_date": 1793033224350,
+    "expire_date": 1824569224350,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
