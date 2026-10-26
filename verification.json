@@ -1969,5 +1969,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-EY5D-82RZ-LSGL": {
+    "telegram_username": "rmdkxosmj",
+    "purchase_date": 1793015074328,
+    "expire_date": 1824551074328,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
