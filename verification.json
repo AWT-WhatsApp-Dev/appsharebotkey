@@ -1987,5 +1987,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-T6UJ-8H8C-M46E": {
+    "telegram_username": "",
+    "purchase_date": 1793031724825,
+    "expire_date": 1824567724825,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
