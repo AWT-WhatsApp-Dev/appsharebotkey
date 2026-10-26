@@ -1942,5 +1942,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-MSKQ-BRY4-S2ST": {
+    "telegram_username": "noogramm",
+    "purchase_date": 1792979749321,
+    "expire_date": 1824515749321,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
