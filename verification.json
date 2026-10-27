@@ -2032,5 +2032,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-DXNP-MS4T-LDEC": {
+    "telegram_username": "miry_mir_21",
+    "purchase_date": 1793126892820,
+    "expire_date": 1824662892820,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
