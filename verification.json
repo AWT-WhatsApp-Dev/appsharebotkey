@@ -2041,5 +2041,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-XH3P-7U2G-4W5G": {
+    "telegram_username": "",
+    "purchase_date": 1793177718420,
+    "expire_date": 1824713718420,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
