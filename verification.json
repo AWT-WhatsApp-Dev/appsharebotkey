@@ -2068,5 +2068,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-TDX6-ZAB7-ECAB": {
+    "telegram_username": "Rem1x_Forever",
+    "purchase_date": 1793202103021,
+    "expire_date": 1824738103021,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
