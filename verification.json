@@ -2086,5 +2086,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-YDJJ-XW6W-EAR3": {
+    "telegram_username": "",
+    "purchase_date": 1793288712804,
+    "expire_date": 1824824712804,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
