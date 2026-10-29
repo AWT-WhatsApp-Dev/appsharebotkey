@@ -2077,5 +2077,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-WZ5Y-AT8H-Z2WC": {
+    "telegram_username": "",
+    "purchase_date": 1793248272790,
+    "expire_date": 1824784272790,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
