@@ -2095,5 +2095,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-A5PD-ABTF-P394": {
+    "telegram_username": "Reminiscenc",
+    "purchase_date": 1793349010068,
+    "expire_date": 1824885010068,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
