@@ -2104,5 +2104,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-3DSU-TAJS-UBNX": {
+    "telegram_username": "simnhtdx",
+    "purchase_date": 1793457562229,
+    "expire_date": 1824993562229,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
