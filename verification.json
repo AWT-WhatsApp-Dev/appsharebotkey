@@ -2122,5 +2122,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-J4H8-MXLL-FNXL": {
+    "telegram_username": "EldarTattooartist",
+    "purchase_date": 1793593655832,
+    "expire_date": 1825129655832,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
