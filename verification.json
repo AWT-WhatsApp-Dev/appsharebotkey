@@ -2149,5 +2149,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-KAR6-JYMP-R9Q3": {
+    "telegram_username": "Gheaade",
+    "purchase_date": 1793743079808,
+    "expire_date": 1825279079808,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
