@@ -2176,5 +2176,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-JPU5-GUV6-G5BG": {
+    "telegram_username": "",
+    "purchase_date": 1793902483842,
+    "expire_date": 1825438483842,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
