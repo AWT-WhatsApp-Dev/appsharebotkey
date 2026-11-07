@@ -2185,5 +2185,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-9QAJ-428N-C5NE": {
+    "telegram_username": "Bekhae",
+    "purchase_date": 1794064575209,
+    "expire_date": 1825600575209,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
