@@ -2194,5 +2194,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-47YK-7WAQ-Y3QB": {
+    "telegram_username": "",
+    "purchase_date": 1794070594520,
+    "expire_date": 1825606594520,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
