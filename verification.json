@@ -2230,5 +2230,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-U5DU-P4WZ-MU8C": {
+    "telegram_username": "sergejqwerdy",
+    "purchase_date": 1794173444097,
+    "expire_date": 1825709444097,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
