@@ -2203,5 +2203,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-JYJU-X6P9-D2HB": {
+    "telegram_username": "Angelika_ti",
+    "purchase_date": 1794162614114,
+    "expire_date": 1825698614114,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
