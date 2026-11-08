@@ -2221,5 +2221,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-ZQ78-5AE5-975F": {
+    "telegram_username": "Den2119916",
+    "purchase_date": 1794172049104,
+    "expire_date": 1825708049104,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
