@@ -2212,5 +2212,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-35FY-ET4P-LSWZ": {
+    "telegram_username": "KakaoCookie322",
+    "purchase_date": 1794163304093,
+    "expire_date": 1825699304093,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
