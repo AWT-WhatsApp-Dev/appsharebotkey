@@ -2356,5 +2356,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-UY32-VB5V-EFDU": {
+    "telegram_username": "",
+    "purchase_date": 1794232064126,
+    "expire_date": 1825768064126,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
