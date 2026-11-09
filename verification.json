@@ -2419,5 +2419,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-TJSA-992Y-CZJD": {
+    "telegram_username": "IKLINEI",
+    "purchase_date": 1794260459092,
+    "expire_date": 1825796459092,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
