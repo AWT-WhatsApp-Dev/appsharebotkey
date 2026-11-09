@@ -2248,5 +2248,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-CMES-EEA6-CV96": {
+    "telegram_username": "Sam_Grin_12345",
+    "purchase_date": 1794199874092,
+    "expire_date": 1825735874092,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
