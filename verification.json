@@ -2311,5 +2311,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-NLCH-AJEN-ZBY9": {
+    "telegram_username": "axwerys",
+    "purchase_date": 1794212669102,
+    "expire_date": 1825748669102,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
