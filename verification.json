@@ -2365,5 +2365,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-Z7PB-YK7L-6FNZ": {
+    "telegram_username": "jostko_nasral",
+    "purchase_date": 1794233984070,
+    "expire_date": 1825769984070,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
