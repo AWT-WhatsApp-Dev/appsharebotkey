@@ -2293,5 +2293,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-QE2Q-QSCS-SP4S": {
+    "telegram_username": "Redogavr",
+    "purchase_date": 1794210903935,
+    "expire_date": 1825746903935,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
