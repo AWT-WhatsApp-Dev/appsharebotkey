@@ -2257,5 +2257,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-DR3V-88RJ-2KWW": {
+    "telegram_username": "inter_56",
+    "purchase_date": 1794203008466,
+    "expire_date": 1825739008466,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
