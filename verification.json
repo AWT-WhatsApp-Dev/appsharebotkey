@@ -2401,5 +2401,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-HPWV-3262-7SAD": {
+    "telegram_username": "Tamirlanan",
+    "purchase_date": 1794244920531,
+    "expire_date": 1825780920531,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
