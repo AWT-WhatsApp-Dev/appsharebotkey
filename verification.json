@@ -2302,5 +2302,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-XM78-N9EG-DLEF": {
+    "telegram_username": "Timiterner",
+    "purchase_date": 1794211544099,
+    "expire_date": 1825747544099,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
