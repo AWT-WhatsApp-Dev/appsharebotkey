@@ -2410,5 +2410,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-JXSY-W644-MLQM": {
+    "telegram_username": "Mad_ina099",
+    "purchase_date": 1794247768098,
+    "expire_date": 1825783768098,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
