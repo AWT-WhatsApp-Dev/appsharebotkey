@@ -2275,5 +2275,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-KJEU-GQJF-M4B6": {
+    "telegram_username": "rt0861",
+    "purchase_date": 1794207459906,
+    "expire_date": 1825743459906,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
