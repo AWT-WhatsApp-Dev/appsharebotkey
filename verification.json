@@ -2392,5 +2392,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-XKLS-5G2X-CMLJ": {
+    "telegram_username": "yanci365",
+    "purchase_date": 1794244808274,
+    "expire_date": 1825780808274,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
