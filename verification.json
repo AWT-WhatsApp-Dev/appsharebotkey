@@ -2482,5 +2482,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-PCHY-Y796-ML8J": {
+    "telegram_username": "kuzy27",
+    "purchase_date": 1794318264199,
+    "expire_date": 1825854264199,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
