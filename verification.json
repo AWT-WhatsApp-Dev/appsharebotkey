@@ -2464,5 +2464,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-BE53-AXUP-DPM2": {
+    "telegram_username": "",
+    "purchase_date": 1794312829617,
+    "expire_date": 1825848829617,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
