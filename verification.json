@@ -2428,5 +2428,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-PN8P-WKJY-6K2J": {
+    "telegram_username": "",
+    "purchase_date": 1794286220162,
+    "expire_date": 1825822220162,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
