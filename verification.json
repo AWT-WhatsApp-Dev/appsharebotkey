@@ -2509,5 +2509,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-MH25-S337-TJJ8": {
+    "telegram_username": "li8rir",
+    "purchase_date": 1794335494300,
+    "expire_date": 1825871494300,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
