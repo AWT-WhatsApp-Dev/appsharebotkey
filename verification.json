@@ -2527,5 +2527,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-XN8S-X3ZF-T4WS": {
+    "telegram_username": "masha_roq",
+    "purchase_date": 1794340649427,
+    "expire_date": 1825876649427,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
