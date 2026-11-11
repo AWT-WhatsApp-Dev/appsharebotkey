@@ -2590,5 +2590,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-NDQZ-6CN9-KUSV": {
+    "telegram_username": "YSaamson",
+    "purchase_date": 1794428089097,
+    "expire_date": 1825964089097,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
