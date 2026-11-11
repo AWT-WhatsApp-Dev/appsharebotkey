@@ -2554,5 +2554,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-RL6A-RJ5R-6N56": {
+    "telegram_username": "Karlova_Vera",
+    "purchase_date": 1794400780711,
+    "expire_date": 1825936780711,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
