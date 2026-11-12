@@ -2617,5 +2617,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-V3VS-GKDP-SN3M": {
+    "telegram_username": "",
+    "purchase_date": 1794471309835,
+    "expire_date": 1826007309835,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
