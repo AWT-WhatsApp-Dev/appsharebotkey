@@ -2662,5 +2662,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-AD3Y-YURK-37WS": {
+    "telegram_username": "Gazik_KRD",
+    "purchase_date": 1794518856458,
+    "expire_date": 1826054856458,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
