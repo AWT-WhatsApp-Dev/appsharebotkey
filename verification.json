@@ -2671,5 +2671,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-SLH2-DCRE-TS7S": {
+    "telegram_username": "",
+    "purchase_date": 1794522983587,
+    "expire_date": 1826058983587,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
