@@ -2635,5 +2635,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-EV2J-C597-DVZA": {
+    "telegram_username": "Valyjwkksxo",
+    "purchase_date": 1794478234200,
+    "expire_date": 1826014234200,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
