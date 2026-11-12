@@ -2644,5 +2644,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-YHS5-VZ3H-UXXL": {
+    "telegram_username": "",
+    "purchase_date": 1794484613915,
+    "expire_date": 1826020613915,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
