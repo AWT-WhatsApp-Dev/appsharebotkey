@@ -2716,5 +2716,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-GZLG-3UM6-S6V6": {
+    "telegram_username": "",
+    "purchase_date": 1794593739117,
+    "expire_date": 1826129739117,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
