@@ -2707,5 +2707,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-ARXY-FAW2-NJ7C": {
+    "telegram_username": "",
+    "purchase_date": 1794587327882,
+    "expire_date": 1826123327882,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
