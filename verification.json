@@ -2689,5 +2689,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-VL9L-ULVT-4JMW": {
+    "telegram_username": "White33305",
+    "purchase_date": 1794564995438,
+    "expire_date": 1826100995438,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
