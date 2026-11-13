@@ -2698,5 +2698,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-MATF-8ZJY-U5Z5": {
+    "telegram_username": "",
+    "purchase_date": 1794575278376,
+    "expire_date": 1826111278376,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
