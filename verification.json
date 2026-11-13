@@ -2725,5 +2725,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-62FV-HW4P-F6YE": {
+    "telegram_username": "pecheeninn",
+    "purchase_date": 1794600597465,
+    "expire_date": 1826136597465,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
