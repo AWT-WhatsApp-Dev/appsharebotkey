@@ -2770,5 +2770,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-T8GE-TZMJ-CWS2": {
+    "telegram_username": "",
+    "purchase_date": 1794654227794,
+    "expire_date": 1826190227794,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
