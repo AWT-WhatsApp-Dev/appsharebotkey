@@ -2752,5 +2752,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-32SS-NSC3-J2PX": {
+    "telegram_username": "deksdm",
+    "purchase_date": 1794647647450,
+    "expire_date": 1826183647450,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
