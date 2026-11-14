@@ -2788,5 +2788,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-BE4X-B9VG-WKC3": {
+    "telegram_username": "AndreiZaice",
+    "purchase_date": 1794680594077,
+    "expire_date": 1826216594077,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
