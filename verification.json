@@ -2815,5 +2815,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-JK5E-C8BF-JMSP": {
+    "telegram_username": "",
+    "purchase_date": 1794782759209,
+    "expire_date": 1826318759209,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
