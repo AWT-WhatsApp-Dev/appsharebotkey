@@ -2824,5 +2824,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-VE4S-FA7A-FAKP": {
+    "telegram_username": "V_A_L_O_R_N",
+    "purchase_date": 1794806819787,
+    "expire_date": 1826342819787,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
