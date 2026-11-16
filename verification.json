@@ -2860,5 +2860,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-DXCH-L2T6-CURT": {
+    "telegram_username": "ATikanov",
+    "purchase_date": 1794853457480,
+    "expire_date": 1826389457480,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
