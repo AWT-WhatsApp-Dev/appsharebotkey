@@ -2842,5 +2842,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-FV3L-GTWC-VQQS": {
+    "telegram_username": "ssskkkrrr_01",
+    "purchase_date": 1794849679269,
+    "expire_date": 1826385679269,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
