@@ -2887,5 +2887,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-F3UF-7TB8-NDG2": {
+    "telegram_username": "MilitaryRomantic",
+    "purchase_date": 1794897962470,
+    "expire_date": 1826433962470,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
