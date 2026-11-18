@@ -2914,5 +2914,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-EDEL-TWQG-6H7G": {
+    "telegram_username": "Alexei122rys",
+    "purchase_date": 1795023187125,
+    "expire_date": 1826559187125,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
