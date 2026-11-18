@@ -2923,5 +2923,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-AY7G-325N-BQB5": {
+    "telegram_username": "",
+    "purchase_date": 1795029387196,
+    "expire_date": 1826565387196,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
