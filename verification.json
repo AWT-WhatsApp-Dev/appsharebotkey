@@ -2950,5 +2950,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-8R2X-Q6CF-9RAE": {
+    "telegram_username": "SluginaOks",
+    "purchase_date": 1795100467170,
+    "expire_date": 1826636467170,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
