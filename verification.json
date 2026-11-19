@@ -2941,5 +2941,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-SQP7-Q9RZ-DWBP": {
+    "telegram_username": "wrxts7",
+    "purchase_date": 1795097524029,
+    "expire_date": 1826633524029,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
