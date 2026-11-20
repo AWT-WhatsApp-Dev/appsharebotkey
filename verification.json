@@ -2986,5 +2986,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-Y9DT-TT69-P94Y": {
+    "telegram_username": "Spot567",
+    "purchase_date": 1795200887660,
+    "expire_date": 1826736887660,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
