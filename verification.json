@@ -2968,5 +2968,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-GV46-4LAU-KCYG": {
+    "telegram_username": "Sergei_8833",
+    "purchase_date": 1795152431522,
+    "expire_date": 1826688431522,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
