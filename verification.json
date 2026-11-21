@@ -2995,5 +2995,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-3PTV-RSVF-9RA4": {
+    "telegram_username": "Dani_kone",
+    "purchase_date": 1795240211212,
+    "expire_date": 1826776211212,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
