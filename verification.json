@@ -3040,5 +3040,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-9HQ2-THFD-KHFJ": {
+    "telegram_username": "Walky_Human",
+    "purchase_date": 1795376191318,
+    "expire_date": 1826912191318,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
