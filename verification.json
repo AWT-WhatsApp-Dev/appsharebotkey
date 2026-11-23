@@ -3058,5 +3058,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-KP6M-E7EH-HDN6": {
+    "telegram_username": "GennadyMunaev",
+    "purchase_date": 1795453621451,
+    "expire_date": 1826989621451,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
