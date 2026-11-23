@@ -3049,5 +3049,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-3PG8-MZCN-F3GJ": {
+    "telegram_username": "Ushinatta1",
+    "purchase_date": 1795422944741,
+    "expire_date": 1826958944741,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
