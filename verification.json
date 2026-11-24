@@ -3076,5 +3076,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-N5MB-UFJC-A4B8": {
+    "telegram_username": "ZhannelSv",
+    "purchase_date": 1795504917318,
+    "expire_date": 1827040917318,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
