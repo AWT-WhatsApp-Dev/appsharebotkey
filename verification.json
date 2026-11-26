@@ -3121,5 +3121,14 @@
     "device_limit": 1,
     "used_devices": [],
     "active": true
+  },
+  "AWT-9BPV-S4NH-7MR5": {
+    "telegram_username": "Aleksandrovi4ch",
+    "purchase_date": 1795713432471,
+    "expire_date": 1827249432471,
+    "one_device_only": true,
+    "device_limit": 1,
+    "used_devices": [],
+    "active": true
   }
 }
